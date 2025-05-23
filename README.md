@@ -66,7 +66,7 @@ of the Qidi Plus4 3D printer.
 
 ### [Secure Remote Access](./content/secure-remote-access/README.md)
 
-### [Bed Heat Soak and controlled Cooldown](./content/bed-controlled-cooldown/README.md)
+### [Bed Heat Soak and controlled Cooldown](./content/bed-controlled-cooldown)
 
 ## Orca Slicer Configuration
 
